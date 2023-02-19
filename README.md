@@ -25,4 +25,8 @@ Javascript
 
 ⚡️EXAMPLES
 
+![A screenshot of the password generator](https://github.com/TevfikSarlak/password-generator/blob/main/Sample-two.PNG)
+
+
+
 
