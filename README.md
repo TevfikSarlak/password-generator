@@ -17,9 +17,9 @@ Firstly user can choose his/her password's length which can be a minimum of 4 an
 
 👨🏻‍💻BUILDED WITH
 
-HTML
-CSS
-Bootstrap
+HTML //
+CSS  //
+Bootstrap //
 Javascript
 
 
