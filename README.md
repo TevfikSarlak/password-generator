@@ -2,7 +2,7 @@
  🗝 PASSWORD GENERATOR
 
    Useful password generator with user selected features.
-![A screenshot of the password generator in action](Sample-one.png)
+![A screenshot of the password generator](https://github.com/TevfikSarlak/password-generator/blob/main/Sample-one.PNG)
 
 
  📜 ABOUT THE PROJECT
